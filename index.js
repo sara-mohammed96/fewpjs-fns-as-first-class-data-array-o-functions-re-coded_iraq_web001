@@ -18,8 +18,8 @@
   }
 
   function throwFrisbee(dogName, dogBreed){
-      console.log(`Throw the frisbee for ${dogName}   the ${dogBreed}`);
-      let m = `Throw the frisbee for ${dogName}   the ${dogBreed}`;
+      console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
+      let m = `Throw the frisbee for ${dogName} the ${dogBreed}`;
       return m;
   }
 
